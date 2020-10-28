@@ -1,1 +1,1 @@
-This is the car price prediction project
+Machine Learning project : predict the price of a car using kNN (k-Nearest-Neighbors) 
